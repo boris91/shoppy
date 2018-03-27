@@ -57,3 +57,11 @@ typings/
 # dotenv environment variables file
 .env
 
+# WebStorm IDE files
+.idea
+
+# Bundle directory
+dst
+
+#Npm Lock file
+package-lock.json
