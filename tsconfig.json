@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"outDir": "./dst/",
+		"module": "commonjs",
+		"lib": ["es2015"],
+		"target": "es5",
+		"sourceMap": true
+	},
+	"include": [
+		"./src/server/**/*"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}
